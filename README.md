@@ -1,1 +1,1 @@
-https://github.com/Coven-delinje/ono-tebe-nado-fd#
+https://github.com/Coven-delinje/ono-tebe-nado-fd
