@@ -88,6 +88,7 @@
   letter-spacing: 35px;
   text-transform: uppercase;
   z-index: 2;
+  margin: 165px 50px 118px 50px;
 }
 
 .main__title-word-center {
@@ -103,7 +104,8 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  margin-top: 204px;
+  /*margin-top: 204px;*/
+  margin-bottom: 50px;
   gap: px;
   z-index: 2;
 }
